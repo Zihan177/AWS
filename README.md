@@ -11,3 +11,5 @@ Lab 3.4 - Amazon SageMaker - Training a model
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbca9b61-958e-4242-81ad-9d5bcff522db" />
 Lab 3.5 Amazon SageMaker - Deploying a model
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3008a0a-3b85-4864-9cb6-f213c6f366b8" />
+Lab 3.6 Amazon SageMaker - Generating model performance metrics
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/2b1cae57-a47f-4669-b922-a6f39c16705f" />
