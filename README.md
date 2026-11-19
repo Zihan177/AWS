@@ -19,3 +19,5 @@ Challenge lab
 <img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/e8fb3cc4-63cc-4807-85a1-126907c85bc1" />
 Module 3 Knowledge Check
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/9dbec66b-c413-4b2a-a2f0-23a568dd2c0c" />
+Module 4 Knowledge Check
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca03c177-cc7b-4fae-ba1d-be4a8ad8395c" />
